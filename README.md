@@ -1,6 +1,6 @@
 ##Netflix Clone Project with E-Commerce Specs (add to cart, cart page, remove from cart)
 
-https://moviebase.now.sh
+
 
 * Reactjs
 * React Hooks
